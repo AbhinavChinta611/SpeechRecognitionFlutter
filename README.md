@@ -1,4 +1,4 @@
-# speechrecognition
+# Speech Recognition
 
 Convert speech to text.
 
